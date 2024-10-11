@@ -1,0 +1,1 @@
+Enterprise_SONiC_OS_4.2.1_Enterprise_Standard.zip filter=lfs diff=lfs merge=lfs -text
